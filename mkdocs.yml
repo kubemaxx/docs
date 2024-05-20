@@ -1,0 +1,4 @@
+site_name: KubeMaxx Documentation
+site_url: https://docs.kubemaxx.cloud
+theme:
+  name: material
